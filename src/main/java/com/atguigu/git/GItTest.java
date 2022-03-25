@@ -9,5 +9,6 @@ public class GItTest {
         System.out.println("hello git!");
         int a = 10;
         double b = 1.0;
+        int c = 2;
     }
 }
